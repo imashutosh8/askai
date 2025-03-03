@@ -12,6 +12,6 @@ Ask.AI is a sleek and modern AI-powered chatbot with a ChatGPT-like interface, b
 
 ✅ "Ask.AI" Header for a Branded Experience 🔥
 
-✅ Real-time AI Responses with OpenRouter API 🤖
+✅ Real-time AI Responses with Gemini API 🤖
 
 ✅ Responsive Design - Works on Mobile & Desktop 📱
